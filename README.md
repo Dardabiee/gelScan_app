@@ -21,7 +21,7 @@
 4. Gunakan fitur tambahan seperti menyimpan hasil atau berbagi QR code.
 
 ## 🌟 Slogan
-**"Quick Scans, Seamless Experience."**
+**"Scan faster, anywhere"**
 
 ## 💡 Visi
 Menjadi solusi QR scanner yang paling andal dan mudah digunakan, cocok untuk kebutuhan pribadi maupun profesional.
